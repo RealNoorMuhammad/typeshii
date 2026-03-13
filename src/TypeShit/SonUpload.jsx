@@ -2,9 +2,7 @@ import React from 'react';
 import Marquee from 'react-fast-marquee';
 import './SonUpload.css';
 import dex from './assets/dex.png';
-import s1 from './assets/s1.jpg';
-import s2 from './assets/s2.jpg';
-import s3 from './assets/s3.jpg';
+
 import g1 from './assets/g1.jpg';
 import g2 from './assets/g2.jpg';
 import g3 from './assets/g3.jpg';
@@ -99,21 +97,7 @@ function SonUpload() {
             <p>Straight from the block. Vibes, art, and the $Shii universe.</p>
           </div>
           <div className="ts-gallery-grid">
-            <div className="ts-gallery-item">
-              <div className="ts-gallery-facet">
-                <img src={s1} alt="" />
-              </div>
-            </div>
-            <div className="ts-gallery-item">
-              <div className="ts-gallery-facet">
-                <img src={s2} alt="" />
-              </div>
-            </div>
-            <div className="ts-gallery-item">
-              <div className="ts-gallery-facet">
-                <img src={s3} alt="" />
-              </div>
-            </div>
+          
             <div className="ts-gallery-item">
               <div className="ts-gallery-facet">
                 <img src={g1} alt="" />

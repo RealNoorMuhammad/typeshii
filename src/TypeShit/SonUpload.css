@@ -176,7 +176,7 @@
   inset: 0;
   background:
     radial-gradient(circle at 50% 40%, rgba(255, 255, 255, 0.03) 0%, transparent 50%),
-    url('./assets/shii.png') center 68% no-repeat;
+    url('./assets/shit.png') center 68% no-repeat;
   background-size: contain;
   opacity: 0.9;
   transform: scale(1.03);
@@ -875,7 +875,7 @@
 @media (max-width: 768px) {
   .ts-hero { padding-top: 5.5rem; padding-bottom: 3.5rem; }
   .ts-hero-media {
-    background-position: center calc(68% - 210px);
+    background-position: center calc(68% - 100px);
   }
   .ts-section { padding-block: 3.5rem; }
   .ts-cards,
