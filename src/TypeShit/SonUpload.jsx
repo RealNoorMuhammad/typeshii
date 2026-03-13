@@ -30,7 +30,7 @@ function SonUpload() {
             <p className="ts-pill">Solana meme coin </p>
             <h1 className="ts-hero-title">TypeShii</h1>
             <p className="ts-hero-sub">
-              An aggressive street-style cat ruling the Solana blocks. Built for degens who type fast,
+             Built for degens who type fast,
               move faster, and meme the loudest.
             </p>
             <div className="ts-hero-actions">

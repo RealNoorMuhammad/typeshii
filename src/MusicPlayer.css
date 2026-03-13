@@ -194,7 +194,7 @@
 .mobile-music-btn {
   position: fixed;
   top: 10px;
-  left: 160px;
+  left: 16px;
   padding: 12px 20px;
   border-radius: 12px;
   background: linear-gradient(165deg, #141414, #111111);
@@ -237,6 +237,7 @@
 
 @media (max-width: 768px) {
   .mobile-music-btn {
+    left: 16px;
     padding: 8px 16px;
     border-radius: 12px;
     border: 1px solid rgba(255, 255, 255, 0.2);

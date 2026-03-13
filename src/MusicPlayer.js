@@ -89,7 +89,7 @@ const MusicPlayer = forwardRef(({ stopAllVideos }, ref) => {
 
       {isMobile ? (
         <button className="mobile-music-btn" onClick={togglePlayPause}>
-          🎵 Son Music {isPlaying ? "⏸" : "▶"}
+          Music {isPlaying ? "⏸" : "▶"}
         </button>
       ) : (
         <motion.div
