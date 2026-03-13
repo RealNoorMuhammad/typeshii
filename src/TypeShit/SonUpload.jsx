@@ -29,7 +29,7 @@ function SonUpload() {
           <div className="ts-hero-overlay" aria-hidden="true" />
 
           <div className="ts-hero-inner">
-            <p className="ts-pill">Solana meme coin • On-chain street energy</p>
+            <p className="ts-pill">Solana meme coin </p>
             <h1 className="ts-hero-title">TypeShii</h1>
             <p className="ts-hero-sub">
               An aggressive street-style cat ruling the Solana blocks. Built for degens who type fast,
@@ -57,25 +57,40 @@ function SonUpload() {
           >
             <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
-            <span className="ts-marquee-item">TypeShii</span>
+         <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
-            <span className="ts-marquee-item">Solana</span>
+             <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
-            <span className="ts-marquee-item">Buy Shii</span>
-            <span className="ts-marquee-dot" />
-            <span className="ts-marquee-item">$Shii</span>
-            <span className="ts-marquee-dot" />
-            <span className="ts-marquee-item">On-Chain</span>
+       <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
             <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
-            <span className="ts-marquee-item">Meme Coin</span>
+            <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
             <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
-            <span className="ts-marquee-item">TypeShii</span>
+         <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
-            <span className="ts-marquee-item">Solana</span>
+            <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+          <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+       <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+                   <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+                   <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+                   <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+                   <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+
+                   <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+                   <span className="ts-marquee-item">$Shii</span>
+            <span className="ts-marquee-dot" />
+                   <span className="ts-marquee-item">$Shii</span>
             <span className="ts-marquee-dot" />
           </Marquee>
         </div>
