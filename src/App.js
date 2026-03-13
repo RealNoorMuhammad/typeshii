@@ -10,19 +10,6 @@ function App() {
   const musicRef = useRef(null);
   const videoRefs = useRef([]); // shared between pages
 
-  // ✅ Control functions
-  const stopMusic = () => {
-    if (musicRef.current) {
-      musicRef.current.pause();
-    }
-  };
-
-  const resumeMusic = () => {
-    if (musicRef.current) {
-      musicRef.current.play().catch(() => {});
-    }
-  };
-
   const stopAllVideos = () => {
     videoRefs.current.forEach((video) => {
       if (video) video.pause();
